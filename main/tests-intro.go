@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"modulo/addresses"
+	"main/addresses"
 )
 
 func main() {
